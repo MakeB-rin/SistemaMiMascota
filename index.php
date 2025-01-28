@@ -294,7 +294,6 @@
                 <center>
                     <h1>Realizado Por : </h1>
                     <br>                   
-                    <h1>Ariel Alexis Choquecallata Adriazola</h1>
                     <h1>Marcos Quispe Paco</h1>
                 </center>
                 <div class="container-hero">
