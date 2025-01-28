@@ -1,3 +1,3 @@
 # Sistema de Veterinaria
 
-<img src="img/gallery-1-big.jpg" alt="Gráfica Montecarlo" width="400">
+<img src="img/pimagen1.png" alt="Gráfica Montecarlo" width="400">
