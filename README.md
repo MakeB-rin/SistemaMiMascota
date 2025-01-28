@@ -10,7 +10,7 @@
 ## 🔹 Menu Principal del Sistema
 <img src="img/pimagen1.png" alt="Gráfica Montecarlo" width="1400">
 
-<img src="img/pimagen1.png" alt="Gráfica Montecarlo" width="1400">
+<img src="img/pimagen2.png" alt="Gráfica Montecarlo" width="1400">
 
 ## 📷 Más Ejemplos del Sistema
-<img src="img/pimagen1.png" alt="Gráfica Montecarlo" width="1400">
+<img src="img/pimagen3.png" alt="Gráfica Montecarlo" width="1400">
