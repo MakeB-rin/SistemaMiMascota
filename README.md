@@ -9,11 +9,11 @@
 
 
 ## 🔹 Menu Principal del Sistema
-<img src="img/pimagen1.png" alt="Gráfica Montecarlo" width="1000">
+<img src="img/pimagen1.png" alt="Gráfica Montecarlo" width="800">
 
-<img src="img/pimagen4.png" alt="Gráfica Montecarlo" width="1000">
+<img src="img/pimagen4.png" alt="Gráfica Montecarlo" width="800">
 
 ## 📷 Más Ejemplos del Sistema
-<img src="img/pimagen7.png" alt="Gráfica Montecarlo" width="1000">
+<img src="img/pimagen7.png" alt="Gráfica Montecarlo" width="800">
 
-<img src="img/pimagen5.png" alt="Gráfica Montecarlo" width="1000">
+<img src="img/pimagen5.png" alt="Gráfica Montecarlo" width="800">
